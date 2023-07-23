@@ -6,8 +6,6 @@
 
  <p align="center>"📫 You can reach me on umut.akturk14@gmail.com</p>
 
- <p align="center>">📄 Know about my experiences [https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)</p>
-
  <p align="center>"☕ I'm a huge coffee lover</p>
 
 <br>
