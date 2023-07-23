@@ -4,6 +4,8 @@
 
  <p align="center">🌱 I’m currently learning <strong>SQL, React Native, Tailwind</strong></p>
 
+ <p align="center">👯 I’m looking to collaborate on new projects with <strong>you!</strong></p>
+
  <p align="center">📫 You can reach me on <strong>umut.akturk14@gmail.com</strong></p>
 
 <p align="center">📄 Know about my experiences <a href="https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">here!</a> </p>
