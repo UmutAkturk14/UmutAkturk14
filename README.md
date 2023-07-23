@@ -4,7 +4,7 @@
 
  <p align="center">🌱 I’m currently learning <strong>SQL, React Native, Tailwind</strong></p>
 
- <p align="center>"📫 You can reach me on umut.akturk14@gmail.com</p>
+ <p align="center">📫 You can reach me on umut.akturk14@gmail.com</p>
 
  <p align="center>"☕ I'm a huge coffee lover</p>
 
