@@ -6,9 +6,9 @@
 
  <p align="center>"📫 You can reach me on <strong>umut.akturk14@gmail.com</strong></p>
 
- <p align="center>"📄 Know about my experiences [https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)</p>
+ <p align="center>">📄 Know about my experiences [https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)</p>
 
- <p align="center>"☕ <strong>I'm a huge coffee lover</strong></p>
+ <p align="center>"☕ I'm a huge coffee lover</p>
 
 <br>
 <h3 align="center">Connect with me:</h3>
