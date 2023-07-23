@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <br>
 
- <p align="center">🌱 I’m currently learning **SQL, React Native, Tailwind**</p>
+ <p align="center">🌱 I’m currently learning <strong>SQL, React Native, Tailwind</strong></p>
 
  📫 You can reach me on **umut.akturk14@gmail.com**
 
