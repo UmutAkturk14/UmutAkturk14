@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **SQL, React Native, Tailwind**
+ 🌱 I’m currently learning **SQL, React Native, Tailwind**
 
-- 📫 How to reach me **umut.akturk14@gmail.com**
+ 📫 You can reach me on **umut.akturk14@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+ 📄 Know about my experiences [https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
-- ⚡ Fun fact **I'm a huge coffee lover ☕**
+ ☕ **I'm a huge coffee lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
