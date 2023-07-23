@@ -4,11 +4,11 @@
 
  <p align="center">🌱 I’m currently learning <strong>SQL, React Native, Tailwind</strong></p>
 
- 📫 You can reach me on **umut.akturk14@gmail.com**
+ <p align="center>"📫 You can reach me on <strong>umut.akturk14@gmail.com</strong></p>
 
- 📄 Know about my experiences [https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+ <p align="center>"📄 Know about my experiences [https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)</p>
 
- ☕ **I'm a huge coffee lover**
+ <p align="center>"☕ <strong>I'm a huge coffee lover</strong></p>
 
 <br>
 <h3 align="center">Connect with me:</h3>
