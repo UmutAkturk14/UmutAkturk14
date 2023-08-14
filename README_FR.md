@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/UmutAkturk14"><img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="British Flag" width="60" height="120"></a></p>
+<p align="right"><a href="https://github.com/UmutAkturk14"><img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="British Flag" width="60" height="40"></a></p>
 <h1 align="center">Salut 👋, je suis Umut</h1>
 <p align="center">
  <img align="center" style="width: 20rem; height: 20rem; " src="https://res.cloudinary.com/dypkxlg1s/image/upload/v1691998359/jiqgbdrbdhhikon8tdca.svg">
