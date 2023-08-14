@@ -15,7 +15,7 @@
 <p align="center">📄 Découvrez mes expériences <a href="https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">ici</a> !</p>
 <p align="center">📔 Consultez ma page de portfolio <a href="troopl.com/umutakturk14">ici</a> !</p>
 
-<p align="center">"☕ Je suis un grand amateur de café</p>
+<p align="center">☕ Je suis un grand amateur de café</p>
 
 <br>
 <h3 align="center">Connectez-vous avec moi :</h3>
