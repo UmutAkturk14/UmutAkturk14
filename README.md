@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-       <img align="center" style="width: 20rem; height: 20rem; " src="https://res.cloudinary.com/dypkxlg1s/image/upload/v1691998359/jiqgbdrbdhhikon8tdca.svg">
+<img align="center" style="width: 20rem; height: 20rem; " src="https://res.cloudinary.com/dypkxlg1s/image/upload/v1691998359/jiqgbdrbdhhikon8tdca.svg">
 <br>
  <h3 align="center">🎓 A passionate frontend developer with background in linguistics</h3>
  <p align="center">🌱 I’m currently learning <strong>SQL, React Native, Tailwind</strong></p>
