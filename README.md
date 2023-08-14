@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
        
 <br>
- <h3 align="center">🎓 A passionate frontend developer with background in linguistics</h3>
+ <h3 align="center" class="fs-1">🎓 A passionate frontend developer with background in linguistics</h3>
  <p align="center">🌱 I’m currently learning <strong>SQL, React Native, Tailwind</strong></p>
 
  <p align="center">👯 I’m looking to collaborate on new projects with <strong>you</strong>!</p>
