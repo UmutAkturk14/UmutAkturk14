@@ -4,6 +4,8 @@
 </p>
 <br>
  <h3 align="center">🎓 A passionate frontend developer with background in linguistics</h3>
+
+ - 🔭 I’m currently working on [Myriad Market](https://github.com/UmutAkturk14/myriad-market)
  <p align="center">🌱 I’m currently learning <strong>SQL, React Native, Tailwind</strong></p>
 
  <p align="center">👯 I’m looking to collaborate on new projects with <strong>you</strong>!</p>
