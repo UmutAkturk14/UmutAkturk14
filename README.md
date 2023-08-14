@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/UmutAkturk14/UmutAkturk14/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"></a></p>
+<p align="center"><a href="https://github.com/UmutAkturk14/UmutAkturk14/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="France Flag" width="40" height="40"></a></p>
 
 <h1 align="center">Hi 👋, I'm Umut</h1>
 <p align="center">
