@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<p class="fw-bold fs-1" style="font-size: 120px;">Yo yo!</p>
-<img align="center" style="width: 20rem; height: 20rem; " src="https://res.cloudinary.com/dypkxlg1s/image/upload/v1691998359/jiqgbdrbdhhikon8tdca.svg">
+<p align="center">
+ <img align="center" style="width: 20rem; height: 20rem; " src="https://res.cloudinary.com/dypkxlg1s/image/upload/v1691998359/jiqgbdrbdhhikon8tdca.svg">
+</p>
 <br>
  <h3 align="center">🎓 A passionate frontend developer with background in linguistics</h3>
  <p align="center">🌱 I’m currently learning <strong>SQL, React Native, Tailwind</strong></p>
