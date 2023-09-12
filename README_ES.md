@@ -8,7 +8,7 @@
  <img align="center" style="width: 20rem; height: 20rem; " src="https://res.cloudinary.com/dypkxlg1s/image/upload/v1691998359/jiqgbdrbdhhikon8tdca.svg">
 </p>
 <br>
-<h3 align="center">🎓 Desarrollador frontend apasionado con formación en lingüística</h3>
+<h3 align="center">🎓 Desarrollador full-stack apasionado con formación en lingüística</h3>
 
 <p align="center">🔭 Actualmente estoy trabajando en <strong><a href="https://github.com/UmutAkturk14/myriad-market">Myriad Market</a></strong></p>
 <p align="center">🌱 Estoy aprendiendo actualmente <strong>Tailwind, jQuery, SQL, React Native</strong></p>
