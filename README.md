@@ -1,6 +1,6 @@
 <p align="right">
  <a href="https://github.com/UmutAkturk14/UmutAkturk14/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="Bandera de Francia" width="60" height="35"></a>
- <a href="https://github.com/UmutAkturk14"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spanish Flag" width="60" height="35"></a>
+ <a href="https://github.com/UmutAkturk14/UmutAkturk14/blob/main/README_ES.md"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spanish Flag" width="60" height="35"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Umut</h1>
