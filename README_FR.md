@@ -1,6 +1,6 @@
 <p align="right">
  <a href="https://github.com/UmutAkturk14"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" alt="British Flag" width="60" height="35"></a>
- <a href="https://github.com/UmutAkturk14"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="British Flag" width="60" height="35"></a>
+ <a href="https://github.com/UmutAkturk14"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spanish Flag" width="60" height="35"></a>
 </p>
 
 
