@@ -1,5 +1,7 @@
-<p align="right"><a href="https://github.com/UmutAkturk14/UmutAkturk14/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="Bandera de Francia" width="60" height="40"></a></p>
-<p align="right"><a href="https://github.com/UmutAkturk14"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" alt="British Flag" width="60" height="40"></a></p>
+<p align="right">
+ <a href="https://github.com/UmutAkturk14/UmutAkturk14/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="Bandera de Francia" width="60" height="35"></a>
+ <a href="https://github.com/UmutAkturk14"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" alt="British Flag" width="60" height="35"></a>
+</p>
 
 <h1 align="center">¡Hola 👋, soy Umut!</h1>
 <p align="center">
