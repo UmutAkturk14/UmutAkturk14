@@ -18,7 +18,7 @@
  <p align="center">📫 You can reach me on <strong>umut.akturk14@gmail.com</strong></p>
 
  <p align="center">📄 Know about my experiences <a href="https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">here!</a> </p>
- <p align="center">📔 See my portfolio page <a href="https://troopl.com/umutakturk14">here!</a> </p>
+ <p align="center">📔 See my portfolio page <a href="https://umutakturk14.github.io/profile/">here!</a> </p>
 
  <p align="center>"☕ I'm a huge coffee lover</p>
 
