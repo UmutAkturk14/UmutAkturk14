@@ -19,7 +19,7 @@
 <p align="center">📫 Vous pouvez me joindre à l'adresse <strong>umut.akturk14@gmail.com</strong></p>
 
 <p align="center">📄 Découvrez mes expériences <a href="https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">ici</a> !</p>
-<p align="center">📔 Consultez ma page de portfolio <a href="troopl.com/umutakturk14">ici</a> !</p>
+<p align="center">📔 Consultez ma page de portfolio <a href="https://umutakturk14.github.io/profile/">ici</a> !</p>
 
 <p align="center">☕ Je suis un grand amateur de café</p>
 
