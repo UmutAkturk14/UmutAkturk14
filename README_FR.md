@@ -11,7 +11,7 @@
 <br>
 <h3 align="center">🎓 Développeur full-stack passionné avec une formation en linguistique</h3>
 
-<p align="center">🔭 Je travaille actuellement sur <strong><a href="https://github.com/UmutAkturk14/myriad-market">Myriad Market</a></strong></p>
+<p align="center">🔭 Je travaille actuellement sur <strong><a href="https://github.com/UmutAkturk14/myriad-market">Myriad Market</a></strong> et <strong><a href="https://github.com/UmutAkturk14/mario-s-pizza-villa">Mario's Pizza Villa</a></strong>.</p>
 <p align="center">🌱 J'apprends actuellement <strong>Tailwind, jQuery, SQL, React Native</strong></p>
 
 <p align="center">👯 Je cherche à collaborer sur de nouveaux projets avec <strong>vous</strong> !</p>
