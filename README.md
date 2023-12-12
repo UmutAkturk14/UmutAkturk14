@@ -10,7 +10,7 @@
 <br>
  <h3 align="center">🎓 A passionate full-stack developer with background in linguistics</h3>
  
- <p align="center">🔭 I’m currently working on <strong><a href="https://github.com/UmutAkturk14/myriad-market">Myriad Market</a></strong> and <strong><a href="https://github.com/UmutAkturk14/mario-s-pizza-villa">Mario's Pizza Villa</a></strong>.</p>
+
  <p align="center">🌱 I’m currently learning <strong>Tailwind, jQuery, SQL, React Native</strong></p>
 
  <p align="center">👯 I’m looking to collaborate on new projects with <strong>you</strong>!</p>
