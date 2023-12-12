@@ -10,7 +10,6 @@
 <br>
 <h3 align="center">🎓 Desarrollador full-stack apasionado con formación en lingüística</h3>
 
-<p align="center">🔭 Actualmente estoy trabajando en <strong><a href="https://github.com/UmutAkturk14/myriad-market">Myriad Market</a></strong> y <strong><a href="https://github.com/UmutAkturk14/mario-s-pizza-villa">Mario's Pizza Villa</a></strong>.</p>
 <p align="center">🌱 Estoy aprendiendo actualmente <strong>Tailwind, jQuery, SQL, React Native</strong></p>
 
 <p align="center">👯 ¡Estoy buscando colaborar en nuevos proyectos contigo!</p>
