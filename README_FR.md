@@ -17,7 +17,7 @@
 
 <p align="center">📫 Vous pouvez me joindre à l'adresse <strong>umut.akturk14@gmail.com</strong></p>
 
-<p align="center">📄 Découvrez mes expériences <a href="https://cvtoolspro.com/export/resume/83513a6a-fb80-4fde-a964-b2132965c358?type=pdf&onePage=true&redneg=male&budapest_v2_tags_spacing=false&locale=en">ici</a> !</p>
+<p align="center">📄 Découvrez mes expériences <a href="https://cvtoolspro.com/export/resume/83513a6a-fb80-4fde-a964-b2132965c358?type=pdf&onePage=true&redneg=male&budapest_v2_tags_spacing=false&locale=en" target="_blank">ici</a> !</p>
 <p align="center">📔 Consultez ma page de portfolio <a href="https://umutakturk14.github.io/profile/">ici</a> !</p>
 
 <p align="center">☕ Je suis un grand amateur de café</p>
