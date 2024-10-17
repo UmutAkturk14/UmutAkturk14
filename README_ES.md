@@ -16,7 +16,7 @@
 
 <p align="center">📫 Puedes contactarme en <strong>umut.akturk14@gmail.com</strong></p>
 
-<p align="center">📄 Conoce mis experiencias <a href="https://app.enhancv.com/share/d8d7ec4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">aquí</a></p>
+<p align="center">📄 Conoce mis experiencias <a href="https://cvtoolspro.com/export/resume/83513a6a-fb80-4fde-a964-b2132965c358?type=pdf&onePage=true&redneg=male&budapest_v2_tags_spacing=false&locale=en" target="_blank">aquí</a></p>
 <p align="center">📔 Visita mi página de portafolio <a href="https://umutakturk14.github.io/profile/">aquí</a></p>
 
 <p align="center">☕ Soy un gran amante del café</p>
