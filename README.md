@@ -11,7 +11,7 @@
  <h3 align="center">🎓 A passionate full-stack developer with background in linguistics</h3>
  
 
- <p align="center">🌱 I’m currently learning <strong>Golang</strong>.</p>
+ <p align="center">🌱 I’m currently learning <strong>Golang</strong></p>
 
  <p align="center">👯 I’m looking to collaborate on new projects with <strong>you</strong>!</p>
 
