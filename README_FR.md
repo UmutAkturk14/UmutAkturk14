@@ -11,7 +11,7 @@
 <br>
 <h3 align="center">🎓 Développeur full-stack passionné avec une formation en linguistique</h3>
 
-<p align="center">🌱 J'apprends actuellement <strong>Tailwind, jQuery, SQL, React Native</strong></p>
+<p align="center">🌱 J'apprends actuellement <strong>Golang</strong></p>
 
 <p align="center">👯 Je cherche à collaborer sur de nouveaux projets avec <strong>vous</strong> !</p>
 
