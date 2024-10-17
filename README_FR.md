@@ -25,7 +25,7 @@
 <br>
 <h3 align="center">Connectez-vous avec moi :</h3>
 <p align="center">
-<a href="https://linkedin.com/in/umut-akturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-akturk" height="30" width="40" target="_blank" /></a>
+<a href="https://linkedin.com/in/umut-akturk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-akturk" height="30" width="40" /></a>
 </p>
 
 <br>
