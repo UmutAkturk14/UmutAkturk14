@@ -1,37 +1,24 @@
-<p align="right">
- <a href="https://github.com/UmutAkturk14/UmutAkturk14/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="Bandera de Francia" width="60" height="35"></a>
- <a href="https://github.com/UmutAkturk14/UmutAkturk14/blob/main/README_ES.md"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Spanish Flag" width="60" height="35"></a>
-</p>
+# 💫 About Me:
+🎓 A passionate learner and a full-stack developer with background in linguistics<br>🌱 I’m currently learning more about back-end development in Javacript/Typescript, with NodeJS and NextJS.
 
-<h1 align="center">Hi 👋, I'm Umut</h1>
-<p align="center">
- <img align="center" style="width: 20rem; height: 20rem; " src="https://res.cloudinary.com/dypkxlg1s/image/upload/v1691998359/jiqgbdrbdhhikon8tdca.svg">
-</p>
+My latest, biggest project is **Quokka JS**, that is jQuery re-visited by Typescript, and much, much more than that! Take a look!
 <br>
- <h3 align="center">🎓 A passionate full-stack developer with background in linguistics</h3>
- 
+[Page](UmutAkturk14.github.io/Quokka-JS)<br>
+[Documentation](https://umutakturk14.github.io/QuokkaDocs/)<br>
+[Repository](https://github.com/UmutAkturk14/QuokkaJS)
 
- <p align="center">🌱 I’m currently learning <strong>Golang</strong></p>
+And I have other upcoming projects like **Silva UI**, as the name suggests, a UI kit that provides dynamic React components. And **CV Forge**, a CV builder with more customisation and a wide selection of pre-made templates! Also you might want to have a look at the [Study timer](https://umutakturk14.github.io/study-timer/). That was a fun little project I made just to play with React a little bit.
 
- <p align="center">👯 I’m looking to collaborate on new projects with <strong>you</strong>!</p>
+Also, here's [my portfolio page!](https://umutakturk14.github.io/portfolio/)
 
- <p align="center">📫 You can reach me on <strong>umut.akturk14@gmail.com</strong></p>
+So stay tuned! 
 
- <p align="center">📄 Know about my experiences <a href="https://cvtoolspro.com/export/resume/83513a6a-fb80-4fde-a964-b2132965c358?type=pdf&onePage=true&redneg=male&budapest_v2_tags_spacing=false&locale=en" target="_blank">here!</a> </p>
- <p align="center">📔 See my portfolio page <a href="https://umutakturk14.github.io/profile/">here!</a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umut-akturk/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@zookeeper14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umut.akturk14@gmail.com) 
 
- <p align="center>"☕ I'm a huge coffee lover</p>
-
-<br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/umut-akturk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-akturk" height="30" width="40" /></a>
-</p>
-
-<br>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Inkscape_logo_%282-colour%29.svg" alt="inkscape" width="40" height="40"></a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452242/jquery.svg" alt="jQuery" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umutakturk14&show_icons=true&locale=en&layout=compact" alt="umutakturk14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutakturk14&show_icons=true&locale=en" alt="umutakturk14" /></p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UmutAkturk14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UmutAkturk14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmutAkturk14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
