@@ -1,6 +1,8 @@
 # 💫 About Me:
 🎓 A passionate learner and a full-stack developer with background in linguistics<br>🌱 I’m currently learning more about back-end development in Javacript/Typescript, with NodeJS and NextJS.
 
+# 🚀 Project Highlights
+
 My latest, biggest project is **Quokka JS**, that is jQuery re-visited by Typescript, and much, much more than that! Take a look!
 <br>
 [Page](UmutAkturk14.github.io/Quokka-JS)<br>
